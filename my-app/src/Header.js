@@ -1,8 +1,5 @@
 
 
-// This is the old header I want to import as a module.
-
-
 function Header() {
     return (
         <>
